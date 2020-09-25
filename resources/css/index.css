@@ -1,0 +1,31 @@
+.navbar-custom {
+    background-color:  rgb(219, 179, 219);
+    text-align: center;
+}    
+
+.reviews {
+    position: sticky; 
+}
+#idrees > span {
+    display: grid;
+}
+#idrees > p {
+    font-size: 15px;
+    display: flex;
+    flex-direction: row;
+}
+li {
+    display: inline; 
+    list-style: none;
+}
+.social-media {
+    align-items: center;
+}
+
+.bg-custom {
+    background-color:  rgb(219, 179, 219);
+}
+#my-images > 
+.carousel-indicators {
+    color: purple;
+}
